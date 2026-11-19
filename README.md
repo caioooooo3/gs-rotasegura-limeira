@@ -57,5 +57,6 @@ O notebook usa caminhos relativos (`dados/...`), então precisa ser aberto de de
 
 ## Integrantes
 
-
-|Caio Vinicius Paes da Silva|570571|
+- Caio Vinicius Paes da Silva (RM 570571)
+- Guilherme Augusto Zanelato de Paiva
+- Henrique de Araújo Leão
