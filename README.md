@@ -57,6 +57,10 @@ O notebook usa caminhos relativos (`dados/...`), então precisa ser aberto de de
 
 ## Integrantes
 
-- Caio Vinicius Paes da Silva (RM 570571)
-- Guilherme Augusto Zanelato de Paiva
-- Henrique de Araújo Leão
+Grupo **Mosqueteiros**
+
+| Nome | RM |
+|---|---|
+| Caio Vinicius Paes da Silva (responsável) | 570571 |
+| Guilherme Augusto Zanelato de Paiva | 571572 |
+| Henrique de Araújo Leão | 568711 |
